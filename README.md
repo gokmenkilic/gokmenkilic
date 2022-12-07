@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gokmenkilic
 - 👀 I’m interested in Quantative Financal Engineering.
-- 🌱 I’m currently learning Deep Learning Algorthims for Portfolio Optimzation.
+- 🌱 I’m currently learning Deep Learning Algorthims for Portfolio Optimization.
 - 💞️ I’m looking to collaborate on any Quantative Finance Applications.
 - 📫 You can reach me out via gkmnklc@gmail.com
 
