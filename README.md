@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @gokmenkilic
-- 👀 I’m interested in to contribute Portfolio Optimization projects for Quantitative Finance.
 - 📫 You can reach me out via gkmnklc@gmail.com
 
 <!---
